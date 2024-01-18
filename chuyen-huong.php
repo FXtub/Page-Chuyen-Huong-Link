@@ -27,20 +27,6 @@ return;
 <?php get_header(); global $post, $gp_settings; ?>
 
 <div id="content">
-<!-- ADS -->	
-<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
-<div id="gpt-passback-040823A" style="text-align: center;">
-  <script>
-    window.googletag = window.googletag || {cmd: []};
-    googletag.cmd.push(function() {
-    googletag.defineSlot('/22486451388/ca-pub-9219954761243535-tag/Fxtub.com/mow_Fxtub.com_970x250', [[468, 60], [970, 90], [970, 250], [300, 250], [320, 50], [300, 50], [320, 100], [728, 90], [300, 100]], 'gpt-passback-040823A').addService(googletag.pubads());
-    googletag.enableServices();
-    googletag.pubads().set('page_url', 'https://fxtub.com/');
-    googletag.display('gpt-passback-040823A');
-    });
-  </script>
-</div>
-<!-- ADS -->	
 <div class="chuyen-huong">
 <?php if (!empty($redirect_to)) {
 echo '<p style="line-height: 35px;font-size: 25px;color: #333;margin-bottom: 30px;"> Đang Chuyển Đến Trang Download! </p>';	
